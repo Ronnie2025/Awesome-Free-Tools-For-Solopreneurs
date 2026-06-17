@@ -69,6 +69,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Payhip](https://payhip.com)** - Simple platform to sell ebooks, software, and templates. Very low transaction fees.
 *   **[Stripe](https://stripe.com)** - The gold standard of online payment processing. Seamlessly integrates with almost every platform.
 *   **[Lemon Squeezy](https://www.lemonsqueezy.com)** - Merchant of Record that handles global tax compliance and payouts for digital products and SaaS.
+*   **[Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/)** - Free Excel/CSV ledger sample for tracking digital product orders, platform fees, costs, refunds, margins, and weekly review actions.
 
 ---
 
