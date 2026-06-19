@@ -70,6 +70,7 @@ A curated list of awesome free tools, templates, and resources for solopreneurs,
 *   **[Stripe](https://stripe.com)** - The gold standard of online payment processing. Seamlessly integrates with almost every platform.
 *   **[Lemon Squeezy](https://www.lemonsqueezy.com)** - Merchant of Record that handles global tax compliance and payouts for digital products and SaaS.
 *   **[Digital Product Seller Ledger Sample](https://ronnie2025.github.io/xianyu-virtual-product-ledger-sample/)** - Free Excel/CSV ledger sample for tracking digital product orders, platform fees, costs, refunds, margins, and weekly review actions.
+*   **[Side Hustle Monthly Report Generator](https://ronnie2025.github.io/side-hustle-monthly-report-generator/)** - Free browser-based monthly report generator for solopreneurs to turn orders, revenue, fees, refunds, and support time into a Markdown review and next-month action list.
 
 ---
 
